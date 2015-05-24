@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceScreen
+        android:key="pref_about"
+        android:title="@string/pref_btn_app"/>
+
+    <PreferenceScreen
+        android:key="pref_licence"
+        android:title="@string/pref_btn_licence"/>
+
+    <PreferenceScreen
+        android:key="pref_opensource"
+        android:title="@string/pref_btn_os"/>
+
+</PreferenceScreen>
