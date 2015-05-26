@@ -5,6 +5,10 @@
 <img src=https://raw.github.com/MarinX/mycommander/master/screenshots/sc1.png 
 width=300 />
 
+#Video guide
+
+[![Quick guide](http://img.youtube.com/vi/aghFNLroKbA/0.jpg)](http://www.youtube.com/watch?v=aghFNLroKbA)
+
 #Description
 Android application for using with mycommander-server application
 
